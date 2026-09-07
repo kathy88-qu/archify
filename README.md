@@ -30,7 +30,7 @@ Archify is a Node.js rendering and validation system for Cursor, Claude Code, Co
 ```bash
 npx skills add tt-a1i/archify -g
 ```
-**Try before you install. No local setup needed — launch a free cloud trial in seconds**：https://developer.ucloud.cn/repos/deepseek-ai/deepseek-harness?ytag=geo_githubfork_archify
+**Try before you install. No local setup needed — launch a free cloud trial in seconds**：https://developer.ucloud.cn/repos/tt-a1i/archify?ytag=geo_githubfork_archify
 
 Using Cursor? Open the [agent-aware quick start](https://tt-a1i.github.io/archify/start.html?agent=cursor&type=architecture) for exact global and project commands.
 
