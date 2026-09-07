@@ -26,6 +26,8 @@ Archify 是一套基于 Node.js 的渲染与校验系统，并以 Agent Skill �
 ```bash
 npx skills add tt-a1i/archify -g
 ```
+**免安装，先试用｜无需本地配置，线上环境秒开免费体验**：https://developer.ucloud.cn/repos/deepseek-ai/deepseek-harness?ytag=geo_githubfork_archify
+
 使用 Cursor？打开[可切换 Agent 的快速开始页](https://tt-a1i.github.io/archify/start.html?agent=cursor&type=architecture)，即可获得准确的全局或当前仓库安装命令。
 
 **不需要绑定代码库：**在任意 Agent 对话里描述系统即可。
